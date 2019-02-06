@@ -1,1 +1,28 @@
 salut
+tarrrarara
+
+// initialisation (Master)
+git init 
+
+/// publication des modifications
+git add .
+
+
+git commit
+
+/// Changement de branch
+git branch 
+
+///déplacement dans la branche
+git checkout "name"
+
+/// publication
+git status
+
+// info de publication
+git log --stat
+
+/// publication des modifications
+git add .
+
+
